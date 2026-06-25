@@ -21,6 +21,7 @@ export default function BirthdayCard() {
     { icon: "🧸", text: "Oh iya, soal boneka itu... murni cuma kenang-kenangan dari aku ya naa. Sama sekali bukan bermaksud buat nembak kok, santai aja hahaha." },
     { icon: "🍂", text: "Aku paham banget mungkin kamu udah punya seseorang yang lagi kamu suka. Jadi, anggap aja ini murni pemberian dari seorang teman." },
     { icon: "🔥", text: "Ke depannya boneka itu mau kamu simpan, kasih ke orang lain, atau mau dibakar sekalian juga bebas terserah kamu hahaha." },
+    { icon: "🐒", text: " Owh iya semangat ya push glory nya.... season kemaren udh 600 match malah stuck honor jir hahaha, semoga season ini kamu imortal ya." },
     { icon: "✨", text: "Terima kasih ya udah menjadi bagian dari perjalanan tumbuh dewasaku sampai sekarang. Tetap jadi orang baik!" }
   ];
 
