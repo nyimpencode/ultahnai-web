@@ -14,12 +14,13 @@ export default function BirthdayCard() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
 
-  const slides = [
+ const slides = [
     { icon: "✉️", text: "Hai... Ada sepucuk surat kecil yang mau aku sampaikan ke kamu hari ini." },
     { icon: "🎂", text: "Selamat ulang tahun ya! Semoga panjang umur, sehat selalu, dan semua yang kamu semogakan bisa segera terwujud." },
     { icon: "⏳", text: "Kalau diingat-ingat, kita udah saling kenal dari zaman sekolah dulu ya. Nggak kerasa waktu cepat banget berlalu." },
-    { icon: "🍂", text: "Meskipun kadang kita sibuk dengan urusan masing-masing dan jarang chatan, aku selalu bersyukur punya teman baik kayak kamu." },
-    { icon: "🤝", text: <>Surat ini murni aku buat sebagai bentuk apresiasi dan perhatian <span className="font-bold underline underline-offset-4 decoration-stone-400">seorang teman</span> di hari spesialmu.</> },
+    { icon: "🧸", text: "Oh iya, soal boneka itu... murni cuma kenang-kenangan dari aku ya naa. Sama sekali bukan bermaksud buat nembak kok, santai aja hahaha." },
+    { icon: "🍂", text: "Aku paham banget mungkin kamu udah punya seseorang yang lagi kamu suka. Jadi, anggap aja ini murni pemberian dari seorang teman." },
+    { icon: "🔥", text: "Ke depannya boneka itu mau kamu simpan, kasih ke orang lain, atau mau dibakar sekalian juga bebas terserah kamu hahaha." },
     { icon: "✨", text: "Terima kasih ya udah menjadi bagian dari perjalanan tumbuh dewasaku sampai sekarang. Tetap jadi orang baik!" }
   ];
 
